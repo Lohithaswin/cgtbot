@@ -1,0 +1,15 @@
+{
+    "players": {
+        "player": {
+            "Team": "leo leo",
+            "Runs": 0,
+            "Balls": 0,
+            "Wickets": 0,
+            "Overs": 0,
+            "Economy": 0.0,
+            "Strike Rate": 0.0
+        }
+    },
+    "teams": {},
+    "tracking": false
+}
